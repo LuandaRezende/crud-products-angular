@@ -1,0 +1,23 @@
+<h3>Produtos cadastrados</h3>
+
+<table>
+  <tr>
+    <td>Nome</td>
+    <td>Preço</td>
+    <td>Ações</td>
+  </tr>
+  <tr *ngFor="let product of products">
+    <th>{{ product.name }}</th>
+    <th>R$ {{ product.price }}</th>
+    <th>
+      <a routerLink="/products/update/{{ product.id }}">
+        <i class="material-icons">edit</i>
+      </a>
+      <a routerLink="/products/delete/{{ product.id }}">
+        <i class="material-icons">delete</i>
+      </a>
+    </th>
+  </tr>
+</table>
+
+

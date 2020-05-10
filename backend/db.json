@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "price": "5.85"
+    },
+    {
+      "name": "Mouse Microsoft",
+      "price": "29,50",
+      "id": 6
+    },
+    {
+      "name": "Tênis Nike Downshifter Feminino",
+      "price": "199.90",
+      "id": 7
+    },
+    {
+      "name": "Arduino Mega",
+      "price": "55.00",
+      "id": 8
+    },
+    {
+      "name": "Tablet Samsung Galaxy Tab A 7",
+      "price": "849.50",
+      "id": 9
+    }
+  ]
+}
