@@ -11,5 +11,5 @@
 </ul>
 <h2>Funcionalidades</h2>
 <ul>
-<li>Aplicação de Cadastro (CRUD) com criação, leitura, atualização e exclusão de produto</li>
+<li>Aplicação CRUD(criação, leitura, atualização e exclusão de produto)</li>
 </ul>
