@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/LuandaRezende/"></p>
+<p align="center"><img src="https://github.com/LuandaRezende/crud-products-angular/blob/master/frontend/src/assets/img/crud-angular.jpeg"></p>
 <h2>Sobre o projeto</h2>
 <p>Projeto desenvolvido para aprimorar as habilidades em Angular 9.</p>
 <h2>As Tecnologias utilizadas</h2>
